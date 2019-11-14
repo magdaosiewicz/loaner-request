@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>item_type</element>
+        <name>x_415959_loaner_re_loaner_request</name>
+        <style>color: brown; background-color:  PapayaWhip;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-14 11:06:36</sys_created_on>
+        <sys_id>f7cd6a2edb054010243efe1b68961946</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>x_415959_loaner_re_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_415959_loaner_re">00d6c06adb890010243efe1b6896190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">00d6c06adb890010243efe1b6896190d</sys_scope>
+        <sys_update_name>sys_ui_style_f7cd6a2edb054010243efe1b68961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-14 11:21:19</sys_updated_on>
+        <value>cmdb_ci_projector</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=f7cd6a2edb054010243efe1b68961946"/>
+</record_update>

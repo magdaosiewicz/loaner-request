@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="053d3ee6db854010243efe1b6896195c" sys_domain="global" table="x_415959_loaner_re_loaner_request" version="3" view="ess">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>453d3ee6db854010243efe1b689619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>c93d3ee6db854010243efe1b689619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>4d3d3ee6db854010243efe1b689619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>cd3d3ee6db854010243efe1b689619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>413d3ee6db854010243efe1b689619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>c13d3ee6db854010243efe1b689619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>453d3ee6db854010243efe1b689619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>c53d3ee6db854010243efe1b689619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>493d3ee6db854010243efe1b689619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_id>c93d3ee6db854010243efe1b689619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_415959_loaner_re_loaner_request" sys_domain="global" view="71f00273db100010243efe1b689619c9">053d3ee6db854010243efe1b6896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_415959_loaner_re_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-14 12:12:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>053d3ee6db854010243efe1b6896195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_415959_loaner_re_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Request" source="x_415959_loaner_re">00d6c06adb890010243efe1b6896190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">00d6c06adb890010243efe1b6896190d</sys_scope>
+            <sys_update_name>sys_ui_section_053d3ee6db854010243efe1b6896195c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-14 12:12:42</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Self Service" name="ess">71f00273db100010243efe1b689619c9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
